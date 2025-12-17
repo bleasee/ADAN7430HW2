@@ -21,8 +21,8 @@ See `Output/metrics.txt` for full results.
 
 ## Kaggle Performance
 Here is a screenshot of my score on the Spring 2025 Classification Competition. However, I did not see my name or score on the leaderboard, likely because the competition closed in March 2025. 
-<img width="1265" height="722" alt="Screenshot 2025-12-17 at 5 48 39 PM" src="https://github.com/user-attachments/assets/6a6ed4d7-c5a3-4f13-8946-4ef6941fe29b" />
 <img width="1299" height="658" alt="Screenshot 2025-12-17 at 5 47 01 PM" src="https://github.com/user-attachments/assets/1fd3c589-9e90-4296-a062-2c5be42d3639" />
+<img width="1265" height="722" alt="Screenshot 2025-12-17 at 5 48 39 PM" src="https://github.com/user-attachments/assets/6a6ed4d7-c5a3-4f13-8946-4ef6941fe29b" />
 
 
 ## Reflections
